@@ -131,11 +131,6 @@ display(hbox)
     ==============================
     *** Open Babel Warning  in PerceiveBondOrders
       Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders (title is INSERT TITLE CARD HERE)
-    
-
-
-
-    HBox(children=(Image(value=b'\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x01,\x00\x00\x01,\x08\x02\x00\x00\x00…
 
 
 
